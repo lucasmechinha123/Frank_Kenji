@@ -1,5 +1,5 @@
 // Troque isto pelo link final da sua página assim que publicá-la:
-    const QR_TARGET = "https://instagram.com/seu_usuario";
+    const QR_TARGET = "https://frank-kenji.vercel.app/";
 
     new QRCode(document.getElementById("qrWrap"), {
       text: QR_TARGET,
